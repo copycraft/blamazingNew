@@ -14,7 +14,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.example.template.fabric.TemplateModFabric"
+      "org.copycraftDev.blamazing.fabric.BlamazingFabric"
     ]
   },
   "mixins": [
